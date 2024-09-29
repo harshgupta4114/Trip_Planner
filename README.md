@@ -1,4 +1,4 @@
-# Trip_Planner
+# TravelTrek :
 ## Description :
 - Created a web application to assist users in discovering dream destinations and booking travel tickets.
 - Features include view details and description of various destinations, ticket booking, and user reviews.
@@ -24,3 +24,24 @@ npm install
 npm run dev
 ```
 4. Open http://localhost:5173 to view it in the browser.
+
+## Screenshots
+**Home Page**
+
+![Home](/screenshots/homepage.jpeg)
+
+**Login Page**
+
+![Login](/screenshots/loginpage.jpeg)
+
+**Register page**
+
+![Register](/screenshots/registerpage.jpeg)
+
+**Tour details page**
+
+![TourDetails](/screenshots/tourdetails.jpeg)
+
+**Thank you page**
+
+![Thankyou](/screenshots/thankyou.jpeg)
